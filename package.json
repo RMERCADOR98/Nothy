@@ -1,0 +1,16 @@
+{
+  "name": "Nothy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Rodrigo Mercador",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.2.0",
+    "electron-reload": "^1.5.0"
+  }
+}

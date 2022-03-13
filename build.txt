@@ -1,0 +1,3 @@
+electron-packager . Nothy --asar=true --platform=win32 --arch=x64 --icon="lapis.png" --prune=true --version-string.ProductName="Nothy"
+
+quando queremos produzir para todas as plataformas utilizamos o --all , evitando tambem de utilizar o --arch
